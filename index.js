@@ -17,7 +17,7 @@ function johnLennonFacts(facts){
 }
 
 function iLoveTheBeatles(num){
-  love = [];
+  var love = [];
   if (num < 15){
     let i = num;
     do {
